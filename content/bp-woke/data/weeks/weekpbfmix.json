@@ -1,0 +1,52 @@
+{
+	"songs": [
+		[
+			"With Cone (BF Mix)",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"BOOM (Bf Mix)",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Overfire (BF Mix)",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": [
+		"Normal"
+	],
+	"weekCharacters": [
+		"perec",
+		"bf",
+		"gf"
+	],
+	"storyName": "GRASS WITH FIRE AND WITH STORM IN THE SKY",
+	"weekName": "Week P (BF Mix)",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

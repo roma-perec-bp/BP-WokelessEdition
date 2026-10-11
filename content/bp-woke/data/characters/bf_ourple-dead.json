@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				29
+			],
+			"anim": "firstDeath",
+			"fps": 30,
+			"name": "die",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				62,
+				29
+			],
+			"anim": "deathLoop",
+			"fps": 30,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				30
+			],
+			"anim": "deathConfirm",
+			"fps": 30,
+			"name": "retry",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ourplebf",
+	"position": [
+		250,
+		500
+	],
+	"healthicon": "ourplebf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		162,
+		232
+	],
+	"camera_position": [
+		20,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 3
+}

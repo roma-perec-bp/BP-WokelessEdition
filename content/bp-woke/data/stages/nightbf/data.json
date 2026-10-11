@@ -1,0 +1,15 @@
+{
+	"directory": "grass",
+	"defaultZoom": 0.7,
+	"stageUI": "",
+
+	"boyfriend": [800, 130],
+	"girlfriend": [350, 0],
+	"opponent": [-100, 120],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [-50, -130],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

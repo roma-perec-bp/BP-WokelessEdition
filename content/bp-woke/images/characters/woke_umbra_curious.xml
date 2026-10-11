@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="woke_umbra_curious.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="umbra-down-curious0000" x="900" y="898" width="462" height="779" frameX="0" frameY="-18" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0001" x="900" y="898" width="462" height="779" frameX="0" frameY="-18" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0002" x="1790" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0003" x="1790" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0004" x="2253" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0005" x="2253" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0006" x="2716" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0007" x="2716" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0008" x="1790" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0009" x="1790" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0010" x="2253" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0011" x="2253" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0012" x="2716" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0013" x="2716" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-down-curious0014" x="1790" y="10" width="453" height="800" frameX="-11" frameY="0" frameWidth="464" frameHeight="800"/>
+	<SubTexture name="umbra-idle-curious0000" x="2166" y="820" width="386" height="864" frameX="0" frameY="-14" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-idle-curious0001" x="2166" y="820" width="386" height="864" frameX="0" frameY="-14" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-idle-curious0002" x="1770" y="898" width="386" height="871" frameX="-4" frameY="-8" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-idle-curious0003" x="1770" y="898" width="386" height="871" frameX="-4" frameY="-8" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-idle-curious0004" x="2562" y="820" width="378" height="880" frameX="-6" frameY="0" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-idle-curious0005" x="2562" y="820" width="378" height="880" frameX="-6" frameY="0" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-idle-curious0006" x="2950" y="820" width="376" height="880" frameX="-6" frameY="0" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-idle-curious0007" x="2950" y="820" width="376" height="880" frameX="-6" frameY="0" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-idle-curious0008" x="887" y="1783" width="376" height="880" frameX="-6" frameY="0" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-idle-curious0009" x="887" y="1783" width="376" height="880" frameX="-6" frameY="0" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-idle-curious0010" x="1273" y="1809" width="376" height="880" frameX="-6" frameY="0" frameWidth="390" frameHeight="880"/>
+	<SubTexture name="umbra-left-curious0000" x="468" y="1783" width="409" height="875" frameX="0" frameY="-3" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0001" x="468" y="1783" width="409" height="875" frameX="0" frameY="-3" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0002" x="470" y="895" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0003" x="470" y="895" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0004" x="930" y="10" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0005" x="930" y="10" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0006" x="1360" y="10" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0007" x="1360" y="10" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0008" x="470" y="895" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0009" x="470" y="895" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0010" x="930" y="10" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0011" x="930" y="10" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0012" x="1360" y="10" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0013" x="1360" y="10" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-left-curious0014" x="470" y="895" width="420" height="878" frameX="-11" frameY="0" frameWidth="431" frameHeight="878"/>
+	<SubTexture name="umbra-right-curious0000" x="10" y="1780" width="448" height="876" frameX="-7" frameY="0" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0001" x="10" y="1780" width="448" height="876" frameX="-7" frameY="0" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0002" x="10" y="10" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0003" x="10" y="10" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0004" x="10" y="895" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0005" x="10" y="895" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0006" x="470" y="10" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0007" x="470" y="10" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0008" x="10" y="10" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0009" x="10" y="10" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0010" x="10" y="895" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0011" x="10" y="895" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0012" x="470" y="10" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0013" x="470" y="10" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-right-curious0014" x="10" y="10" width="450" height="875" frameX="0" frameY="-1" frameWidth="455" frameHeight="876"/>
+	<SubTexture name="umbra-up-curious0000" x="1372" y="898" width="388" height="901"/>
+	<SubTexture name="umbra-up-curious0001" x="1372" y="898" width="388" height="901"/>
+	<SubTexture name="umbra-up-curious0002" x="1659" y="1809" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0003" x="1659" y="1809" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0004" x="2024" y="1779" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0005" x="2024" y="1779" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0006" x="2389" y="1710" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0007" x="2389" y="1710" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0008" x="1659" y="1809" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0009" x="1659" y="1809" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0010" x="2024" y="1779" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0011" x="2024" y="1779" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0012" x="2389" y="1710" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0013" x="2389" y="1710" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+	<SubTexture name="umbra-up-curious0014" x="1659" y="1809" width="355" height="889" frameX="-32" frameY="-9" frameWidth="388" frameHeight="901"/>
+</TextureAtlas>

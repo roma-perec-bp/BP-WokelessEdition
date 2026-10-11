@@ -1,0 +1,271 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-idle-default"
+		},
+		{
+			"offsets": [
+				5,
+				-88
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-down-default"
+		},
+		{
+			"offsets": [
+				28,
+				-1
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-left-default"
+		},
+		{
+			"offsets": [
+				-19,
+				-4
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-right-default"
+		},
+		{
+			"offsets": [
+				67,
+				22
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-up-default"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-curious",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-idle-curious"
+		},
+		{
+			"offsets": [
+				5,
+				-88
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-curious",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-down-curious"
+		},
+		{
+			"offsets": [
+				28,
+				-1
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-curious",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-left-curious"
+		},
+		{
+			"offsets": [
+				-19,
+				-4
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-curious",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-right-curious"
+		},
+		{
+			"offsets": [
+				67,
+				22
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-curious",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-up-curious"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-angry",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-idle-angry"
+		},
+		{
+			"offsets": [
+				5,
+				-88
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-angry",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-down-angry"
+		},
+		{
+			"offsets": [
+				28,
+				-1
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-angry",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-left-angry"
+		},
+		{
+			"offsets": [
+				-19,
+				-4
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-angry",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-right-angry"
+		},
+		{
+			"offsets": [
+				67,
+				22
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-angry",
+			"flipX": false,
+			"indices": [],
+			"name": "umbra-up-angry"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				111,
+				144
+			],
+			"anim": "trans-angry",
+			"fps": 24,
+			"name": "transition_to_angry",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34
+			],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/woke_umbra, characters/woke_umbra_angry, characters/woke_umbra_curious",
+	"position": [
+		20,
+		-70
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "umbra-woke",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -10079335,
+	"camera_position": [
+		80,
+		70
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

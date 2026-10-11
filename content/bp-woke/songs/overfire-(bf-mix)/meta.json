@@ -1,0 +1,12 @@
+{
+    "songName": "overfire-(bf-mix)",
+    "displayName": "Overfire (BF Mix)",
+
+    "composers": ["Kawai Arcade"],
+    "charters": ["Charting Issue"],
+
+    "freeplayColor": "#ff5800",
+    "freeplayIcon": "jap-wheel",
+    
+    "difficulties": ["Normal"]
+}

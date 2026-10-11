@@ -1,0 +1,12 @@
+{
+    "songName": "boom-(bf-mix)",
+    "displayName": "BOOM (BF Mix)",
+
+    "composers": ["Stif"],
+    "charters": ["MTH"],
+
+    "freeplayColor": "#FF0000",
+    "freeplayIcon": "jap",
+    
+    "difficulties": ["Normal"]
+}

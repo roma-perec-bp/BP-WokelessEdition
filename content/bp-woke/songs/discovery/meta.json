@@ -1,0 +1,12 @@
+{
+    "songName": "Discovery",
+    "displayName": "Discovery",
+
+    "composers": ["MangoTask"],
+    "charters": ["Twodrec"],
+
+    "freeplayColor": "#340a54",
+    "freeplayIcon": "lore-woke",
+    
+    "difficulties": ["Normal"]
+}

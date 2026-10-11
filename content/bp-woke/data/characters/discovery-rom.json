@@ -1,0 +1,261 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rom-idle-default",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				-125
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rom-down-default",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				181,
+				-21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rom-left-default",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-34,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rom-right-default",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				11,
+				35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rom-up-default",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "trans-intro",
+			"fps": 24,
+			"name": "rom-idle-intro-trans",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-intro",
+			"fps": 24,
+			"name": "rom-idle-intro0",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-15,
+				-15
+			],
+			"anim": "singDOWN-intro",
+			"fps": 24,
+			"name": "rom-down-intro",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				2,
+				-3
+			],
+			"anim": "singLEFT-intro",
+			"fps": 24,
+			"name": "rom-left-intro",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-49,
+				-7
+			],
+			"anim": "singRIGHT-intro",
+			"fps": 24,
+			"name": "rom-right-intro",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-17,
+				5
+			],
+			"anim": "singUP-intro",
+			"fps": 24,
+			"name": "rom-up-intro",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-shock",
+			"fps": 24,
+			"name": "rom-idle-shock",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				0,
+				-125
+			],
+			"anim": "singDOWN-shock",
+			"fps": 24,
+			"name": "rom-down-shock",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				181,
+				-21
+			],
+			"anim": "singLEFT-shock",
+			"fps": 24,
+			"name": "rom-left-shock",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-34,
+				-13
+			],
+			"anim": "singRIGHT-shock",
+			"fps": 24,
+			"name": "rom-right-shock",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				11,
+				35
+			],
+			"anim": "singUP-shock",
+			"fps": 24,
+			"name": "rom-up-shock",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-26,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "trans-shock",
+			"loop": false,
+			"name": "rom-right-trans"
+		},
+		{
+			"offsets": [
+				31,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "cutscene",
+			"loop": false,
+			"name": "rom-cutscene-default"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/woke_rom,characters/woke_rom_intro,characters/woke_rom_cut,characters/woke_rom_shocked",
+	"position": [
+		0,
+		0
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": true,
+	"gameover_confirm_sound": null,
+	"healthicon": "rom-woke",
+	"gameover_character": null,
+	"vslice_sustains": true,
+	"flip_x": false,
+	"healthbar_colour": -3146131,
+	"camera_position": [
+		0,
+		0
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

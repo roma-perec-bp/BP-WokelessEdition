@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wireframe.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grass_anim0000" x="10" y="10" width="1924" height="839" frameX="0" frameY="-1" frameWidth="1924" frameHeight="840"/>
+	<SubTexture name="grass_anim0001" x="10" y="10" width="1924" height="839" frameX="0" frameY="-1" frameWidth="1924" frameHeight="840"/>
+	<SubTexture name="grass_anim0002" x="10" y="1708" width="1923" height="839" frameX="0" frameY="0" frameWidth="1924" frameHeight="840"/>
+	<SubTexture name="grass_anim0003" x="10" y="1708" width="1923" height="839" frameX="0" frameY="0" frameWidth="1924" frameHeight="840"/>
+	<SubTexture name="grass_anim0004" x="10" y="859" width="1924" height="839" frameX="0" frameY="-1" frameWidth="1924" frameHeight="840"/>
+	<SubTexture name="grass_anim0005" x="10" y="859" width="1924" height="839" frameX="0" frameY="-1" frameWidth="1924" frameHeight="840"/>
+</TextureAtlas>

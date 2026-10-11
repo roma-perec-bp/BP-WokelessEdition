@@ -1,0 +1,4 @@
+function onLoad()
+{
+    countdownSounds = false;
+}

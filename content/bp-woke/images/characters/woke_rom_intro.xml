@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="woke_rom_intro.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rom-down-intro0000" x="386" y="1637" width="361" height="780" frameX="-2" frameY="-9" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0001" x="386" y="1637" width="361" height="780" frameX="-2" frameY="-9" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0002" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0003" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0004" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0005" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0006" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0007" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0008" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0009" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0010" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0011" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0012" x="410" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0013" x="778" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-down-intro0014" x="778" y="10" width="358" height="790" frameX="0" frameY="0" frameWidth="363" frameHeight="790"/>
+	<SubTexture name="rom-idle-intro0000" x="10" y="824" width="379" height="791" frameX="-7" frameY="-12" frameWidth="390" frameHeight="804"/>
+	<SubTexture name="rom-idle-intro0001" x="10" y="824" width="379" height="791" frameX="-7" frameY="-12" frameWidth="390" frameHeight="804"/>
+	<SubTexture name="rom-idle-intro0002" x="10" y="10" width="390" height="804"/>
+	<SubTexture name="rom-idle-intro0003" x="10" y="10" width="390" height="804"/>
+	<SubTexture name="rom-idle-intro0004" x="399" y="824" width="373" height="803" frameX="-12" frameY="-1" frameWidth="390" frameHeight="804"/>
+	<SubTexture name="rom-idle-intro0005" x="399" y="824" width="373" height="803" frameX="-12" frameY="-1" frameWidth="390" frameHeight="804"/>
+	<SubTexture name="rom-idle-intro0006" x="10" y="1625" width="366" height="800" frameX="-16" frameY="-4" frameWidth="390" frameHeight="804"/>
+	<SubTexture name="rom-idle-intro0007" x="10" y="1625" width="366" height="800" frameX="-16" frameY="-4" frameWidth="390" frameHeight="804"/>
+	<SubTexture name="rom-idle-intro0008" x="10" y="1625" width="366" height="800" frameX="-16" frameY="-4" frameWidth="390" frameHeight="804"/>
+	<SubTexture name="rom-idle-intro0009" x="10" y="1625" width="366" height="800" frameX="-16" frameY="-4" frameWidth="390" frameHeight="804"/>
+	<SubTexture name="rom-idle-intro0010" x="10" y="1625" width="366" height="800" frameX="-16" frameY="-4" frameWidth="390" frameHeight="804"/>
+	<SubTexture name="rom-left-intro0000" x="1104" y="1612" width="330" height="800" frameX="0" frameY="0" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0001" x="1104" y="1612" width="330" height="800" frameX="0" frameY="0" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0002" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0003" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0004" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0005" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0006" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0007" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0008" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0009" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0010" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0011" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0012" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0013" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-left-intro0014" x="1444" y="832" width="318" height="796" frameX="-13" frameY="-4" frameWidth="331" frameHeight="800"/>
+	<SubTexture name="rom-right-intro0000" x="782" y="810" width="337" height="792" frameX="-5" frameY="-6" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0001" x="782" y="810" width="337" height="792" frameX="-5" frameY="-6" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0002" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0003" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0004" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0005" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0006" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0007" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0008" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0009" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0010" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0011" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0012" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0013" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-right-intro0014" x="757" y="1637" width="337" height="798" frameX="0" frameY="0" frameWidth="342" frameHeight="798"/>
+	<SubTexture name="rom-up-intro0000" x="1469" y="10" width="306" height="811" frameX="0" frameY="-2" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0001" x="1469" y="10" width="306" height="811" frameX="0" frameY="-2" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0002" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0003" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0004" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0005" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0006" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0007" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0008" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0009" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0010" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0011" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0012" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0013" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+	<SubTexture name="rom-up-intro0014" x="1146" y="10" width="313" height="812" frameX="-9" frameY="0" frameWidth="322" frameHeight="813"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+{
+    "stuff": [
+        {"lyric": "Игры кончились сука!", "timestamp": 16, "color": "0xffFF0000"},
+        {"lyric": "", "timestamp": 48, "color": "0xffFF0000"},
+        {"lyric": "Ты думаешь что это всё?", "timestamp": 1502, "color": "0xffFF0000"},
+        {"lyric": "Ты думаешь что это и вправду конец!?", "timestamp": 1525, "color": "0xffFF0000"},
+        {"lyric": "", "timestamp": 1560, "color": "0xffFF0000"},
+        {"lyric": "Ну...", "timestamp": 1579, "color": "0xffFF0000"},
+        {"lyric": "Ну... Так и есть!", "timestamp": 1590, "color": "0xffFF0000"},
+        {"lyric": "Это конец!", "timestamp": 1601, "color": "0xffFF0000"},
+        {"lyric": "хы)", "timestamp": 1622, "color": "0xffFF0000"}
+
+    ]
+}
